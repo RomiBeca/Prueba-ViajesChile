@@ -1,0 +1,14 @@
+body {
+    background-color: hsl(0, 0%, 0%);
+}
+
+.navbar-nav {
+    margin-left: auto;
+
+}
+
+h3 {
+    color: #ffff;
+    text-align: center;
+
+}
