@@ -12,6 +12,7 @@ body {
 /* general */
 
 h3,
+h4,
 i {
     color: #ffffff;
     font-weight: 700;
@@ -29,10 +30,12 @@ li,
 
 }
 
-/* quiebes somos*/
-#qsomos {
+/* quienes somos*/
+#qsomos,
+#destacados,
+#contacto {
     text-align: center;
-    padding-top: 2rem;
+    padding-top: 3rem;
 }
 
 #qsomos2 {
@@ -52,12 +55,6 @@ li,
 .bg1 li {
     text-align: justify;
 }
-
-/* destacados  */
-
-
-
-/* contactos */
 
 /* footer  */
 h4 {
