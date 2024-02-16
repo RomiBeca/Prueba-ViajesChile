@@ -1,32 +1,73 @@
 body {
     background-color: hsl(0, 0%, 0%);
+    font-family: "Roboto", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-family: "Roboto", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+
 }
 
+/* general */
+
+h3,
+i {
+    color: #ffffff;
+    font-weight: 700;
+}
+
+p,
+li,
+.mb-3 {
+    font-weight: 400;
+}
+
+/* barra de navegacion  */
 .navbar-nav {
     margin-left: auto;
 
 }
 
-h3 {
-    color: #ffff;
+/* quiebes somos*/
+#qsomos {
     text-align: center;
+    padding-top: 2rem;
+}
+
+#qsomos2 {
+    display: block;
+
+    padding-left: auto;
+    padding-right: auto;
 
 }
 
-
-
-#cqs {
+.bg1 {
+    background-color: rgba(255, 255, 255, 0);
+    color: #ffffff;
     text-align: center;
-
-
 }
 
-
-i {
-    color: #ffff;
-}
-
-#cqs li {
+.bg1 li {
     text-align: justify;
+}
 
+/* destacados  */
+
+
+
+/* contactos */
+
+/* footer  */
+h4 {
+    padding-top: 3rem;
+    margin-right: 700px;
+}
+
+.fa-github,
+.fa-linkedin,
+.fa-square-twitter,
+.fa-square-facebook {
+    padding: 2.5px;
 }
