@@ -21,6 +21,7 @@ i {
 p,
 li,
 .mb-3 {
+    color: hsl(0, 0%, 100%);
     font-weight: 400;
 }
 
@@ -55,6 +56,10 @@ li,
 .bg1 li {
     text-align: justify;
 }
+
+/* destacados */
+
+
 
 /* footer  */
 h4 {

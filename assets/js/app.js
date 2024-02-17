@@ -1,6 +1,8 @@
 $(document).ready(function () {
-    console.log("esto es una prueba en la consola")
-    //aqui va el texto
+
+    $(boton).click(function () {
+        alert("¡Tú mensaje a sido enviado con exito!");
+    })
 
 
 
